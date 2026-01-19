@@ -105,5 +105,5 @@ Before running the project, update the database credentials in config.py
 
 ## Author
 
-Juan José Cardeño Valencia
-Data Analytics Portfolio Project
+- Juan José Cardeño Valencia
+- Data Analytics Portfolio Project
