@@ -11,33 +11,6 @@ The main objective is to demonstrate practical skills in:
 
 ---
 
-## Project Architecture
-
-etl-weather-project/
-│
-├── etl.py                  # Main ETL (extract + load)
-├── config.py               # DB configuration, dates, and cities
-├── requirements.txt        # Python dependencies
-├── README.md
-│
-├── sql/
-│   ├── create_tables.sql         # Schema creation
-│   ├── database_validation.sql  # Quality validations
-│   ├── transformations.sql      # Derived columns and views
-│   └── analysis_queries.sql     # Analytical queries
-│  
-│── assets/ 
-│   ├── dashboard_preview.png
-│  
-│── results/ 
-│   ├── dashboard.md        
-│   └── insights.md    
-│
-└── dashboard/
-    └── weather_etl.pbix          # Power BI dashboard
-
----
-
 ## ETL Workflow
 
 ### 1️⃣ Extract
